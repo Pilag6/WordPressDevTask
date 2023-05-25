@@ -26,11 +26,4 @@ The following plugins were utilized in this WordPress development project:
 
 8. **Yoast SEO**: Yoast SEO is a comprehensive search engine optimization plugin that assists in optimizing WordPress websites for better visibility in search engine results. It offers features such as XML sitemaps, meta tags, and content analysis.
 
-## Admin Access
-
-The WordPress database, along with the admin password, is included in the repository in a special folder named "database." Please note that including sensitive information in a repository is generally not recommended for security reasons. If deploying this website in a production environment, it is crucial to change the admin password or provide instructions on how to change it after importing the database.
-
-To access the WordPress admin panel, use the following credentials:
-- Username: *****
-- Password: ****
 
