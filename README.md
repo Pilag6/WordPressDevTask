@@ -26,4 +26,8 @@ The following plugins were utilized in this WordPress development project:
 
 8. **Yoast SEO**: Yoast SEO is a comprehensive search engine optimization plugin that assists in optimizing WordPress websites for better visibility in search engine results. It offers features such as XML sitemaps, meta tags, and content analysis.
 
+![screencapture-wordpress-recruitment-task-local-2023-05-25-10_48_59](https://github.com/Pilag6/WordPressDevTask/assets/79191808/ee5f735e-0b96-4c80-b7e7-164323a90557)
+
+![mobile](https://github.com/Pilag6/WordPressDevTask/assets/79191808/85d56707-6cb9-4bb2-87c7-00614fbe4709)
+
 
